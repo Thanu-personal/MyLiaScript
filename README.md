@@ -1,7 +1,7 @@
 <!--
-author:   Karan Vasudevamurthy
+author:  Thanu
 
-email:    karanlvm123@gmail.com
+email:    thanu.nakshathra@gmail.com
 
 version:  0.0.1
 
